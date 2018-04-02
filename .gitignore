@@ -3,6 +3,7 @@ logs/*
 temp/*
 config/*
 plugins/*/config.inc.php
+.idea
 
 # this is for the sample plugin (via composer)
 plugins/rcsample

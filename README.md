@@ -1,8 +1,8 @@
 Roundcube Webmail 
 =================
-[roundcube.net](https://roundcube.net)
 
-[![Build Status](https://api.travis-ci.org/roundcube/roundcubemail.svg?branch=master)](https://travis-ci.org/roundcube/roundcubemail)
+This is a mirror of the official Roundcube Webmail project.
+This fork will be customized to our company requirements.
 
 ATTENTION
 ---------
